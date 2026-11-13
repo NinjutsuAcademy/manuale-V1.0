@@ -1,0 +1,6 @@
+{
+  "name": "Manuale Admin · Ninjutsu Academy",
+  "description": "Manuale operativo interattivo per la gestione del pannello amministratore di ninjutsuacademy.top (ASD Ninjutsu Academy Grottaglie).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
